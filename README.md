@@ -2,6 +2,9 @@
 
 A simple 3D-printable adapter that allows the REEKON M1 Caliber measuring tool to work with Jet miter saws.
 
+![Adapter installed on Jet miter saw](part_attached.jfif)
+![REEKON M1 mounted on adapter](with_reekon.jfif)
+
 ## Why I Made This
 
 The REEKON M1 Caliber is a great tool that digitally measures material as you slide it under the saw, but it doesn't mount directly to my Jet miter saw fence. This adapter solves that problem.
